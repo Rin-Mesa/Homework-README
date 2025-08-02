@@ -55,4 +55,30 @@ cd school-management-system
 ```
 npm install
 ```
+## Screenshot ##
 ![Dashboard](image.png)
+
+## 🔧 Usage ##
+To run the server in development mode:
+
+```
+npm run dev
+```
+To start the server normally:
+
+```
+npm start
+```
+Access the API at:
+
+```
+http://localhost:3000/api
+```
+
+## 📮 API Endpoints ##
+|Method  | Endpoint        | Desription      |
+|POST    | /api/auth/login | Login to system |
+|GET     | /api/auth/login | Login to system |
+|POST    | /api/auth/login | Login to system |
+|PUT     | /api/auth/login | Login to system |
+|DELETE  | /api/auth/login | Login to system |
