@@ -29,5 +29,4 @@ I'm a student 2026 at Passerelles Numériques Cambodia (PNC). Located on St. 371
 - **Authentication:** JSON Web Token (JWT)
 - **Environment Management:** dotenv
 - **Testing:** Jest / Mocha (optional)
-
-**---------**
+---
