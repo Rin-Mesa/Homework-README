@@ -55,3 +55,4 @@ cd school-management-system
 ```
 npm install
 ```
+![Dashboard](image.png)
