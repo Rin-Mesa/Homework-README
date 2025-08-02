@@ -4,6 +4,8 @@
 
 I'm a student 2026 at Passerelles Numériques Cambodia (PNC). Located on St. 371 Phum Tropeang Chhuk (Borey Sorla) Sangkat, Tek Thla Khan Sen Sok, Phnom Penh CAMBODIA.
 
+---
+
 ## 📚 Table of Contents ##
 
 - [Bootstrap]()
@@ -13,6 +15,8 @@ I'm a student 2026 at Passerelles Numériques Cambodia (PNC). Located on St. 371
 - [Python]()
 - [Github]()
 
+---
+
 ## ✨ Features ##
 - Completed studies at​​ PNC
 - Pass exam
@@ -20,6 +24,8 @@ I'm a student 2026 at Passerelles Numériques Cambodia (PNC). Located on St. 371
 - Have a good job
 - Have good salary
 - Help family
+
+---
 
 ## 🛠 Tech Stack ##
 - **Programming Language:** JavaScript(Node.js)
@@ -29,4 +35,23 @@ I'm a student 2026 at Passerelles Numériques Cambodia (PNC). Located on St. 371
 - **Authentication:** JSON Web Token (JWT)
 - **Environment Management:** dotenv
 - **Testing:** Jest / Mocha (optional)
+
+[![app](https://img.shields.io/badge/Node.js-18.x-red)]()
+[![app](https://img.shields.io/badge/Express.js-Framework-blue)]()
+[![app](https://img.shields.io/badge/MongoDB-Database-yellow)]()
+[![app](https://img.shields.io/badge/Licenes-MIT-green)]()
+
 ---
+
+## 🚀 Installation ##
+Clone the project and install dependencies:
+
+```
+git clone https://github.com/your-username/school-management-system.git
+```
+```
+cd school-management-system
+```
+```
+npm install
+```
