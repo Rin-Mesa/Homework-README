@@ -77,6 +77,7 @@ http://localhost:3000/api
 
 ## 📮 API Endpoints ##
 |Method  | Endpoint        | Desription      |
+|--------|-----------------|-----------------|
 |POST    | /api/auth/login | Login to system |
 |GET     | /api/auth/login | Login to system |
 |POST    | /api/auth/login | Login to system |
